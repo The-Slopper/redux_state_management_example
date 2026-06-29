@@ -1,7 +1,7 @@
 {
   "name": "redux-state-management-example",
   "version": "1.0.0",
-  "description": "Exemplo de gerenciamento de estado no frontend.",
+  "description": "Frontend state management example.",
   "author": "Engineering Team <engineering@example.com>",
   "license": "MIT",
   "private": true,
